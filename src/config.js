@@ -2,7 +2,7 @@ import img1 from './assets/projects/stylesync.png';
 import img2 from './assets/projects/carrental.png';
 import ytLite from './assets/projects/yt-lite.png';
 // import img3 from './assets/projects/fooddash.png';
-import Whatsapp from './assets/projects/Whatsapp.png';
+import whatsapp from './assets/projects/whatsapp.png';
 
 export const projects = [
 	{
@@ -28,7 +28,7 @@ export const projects = [
 		description:
 			'Whatsapp Marketplace for selling and buying products',
 		techStack: ['CSS', 'JavaScript','ReactJS','Nodejs','Express','Mongodb'],
-		imgUrl: Whatsapp,
+		imgUrl: whatsapp,
 		sourceUrl: 'https://github.com/Vivekreddyv/whatsappMPfel',
 		demoUrl: 'https://earnest-boba-f5e730.netlify.app/',
 		background: 'linear-gradient(to bottom right, #ff5722, #ff5740 90%)',
