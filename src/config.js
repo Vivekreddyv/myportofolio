@@ -2,7 +2,7 @@ import img1 from './assets/projects/stylesync.png';
 import img2 from './assets/projects/carrental.png';
 import ytLite from './assets/projects/yt-lite.png';
 import img3 from './assets/projects/fooddash.png';
-import Whatsapp from './assets/projects/Whatsappmp.png';
+import Whatsapp from './assets/projects/Whatsapp.png';
 
 export const projects = [
 	{
